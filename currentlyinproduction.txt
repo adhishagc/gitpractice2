@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 *This is in the develop branch - renew feature.
+=======
+*This is in the develop branch -payment gateway.
+>>>>>>> 034fc1b43889185a70f1fee7b353a6cc0b7777ca
 This version is currently in production.
 Setting this to master.
