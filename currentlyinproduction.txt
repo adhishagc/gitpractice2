@@ -1,3 +1,5 @@
-*This is in the develop branch -payment gateway.
+
+*This is in the develop branch - renew feature.
+
 This version is currently in production.
 Setting this to master.
